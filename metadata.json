@@ -1,0 +1,11 @@
+{
+  "name": "AbiBicara Pro",
+  "description": "Aplikasi terapi wicara & senam motorik oral anak usia 3 tahun untuk merangkai 2 kata dan melatih bukaan rahang bersama Abi & Ibu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

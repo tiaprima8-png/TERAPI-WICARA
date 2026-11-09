@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AbiBicara Pro</string>
+    <string name="app_subtitle">Terapi Wicara &amp; Senam Rahang Anak 3 Tahun</string>
+    <string name="nav_schedule">Jadwal</string>
+    <string name="nav_jaw_gym">Senam Rahang</string>
+    <string name="nav_practice">Latihan</string>
+    <string name="nav_singing">Bernyanyi</string>
+    <string name="nav_progress">Progres</string>
+    <string name="badge_open_jaw">BUKA RAHANG LEBAR!</string>
+    <string name="camera_mirror_title">Cermin Mulut Abi &amp; Adik</string>
+    <string name="record_5_sec">Rekam Suara (5d)</string>
+    <string name="play_recording">Putar Rekaman</string>
+    <string name="export_report">Export Laporan Progress</string>
+</resources>
